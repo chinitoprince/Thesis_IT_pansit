@@ -482,7 +482,10 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 0
     Collab: 0
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   cloudProjectId: b4c8cbee-1e2e-4594-9991-ba7fcb0c2808
   projectName: THESIS_IT_PANSIT
