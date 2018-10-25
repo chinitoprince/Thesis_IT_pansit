@@ -27,5 +27,9 @@ EditorBuildSettings:
     path: Assets/SCENES/Scene 1c.unity
   - enabled: 0
     path: Assets/TRIALSCENE.unity
+  - enabled: 1
+    path: Assets/SCENES/flipping cards.unity
   - enabled: 0
     path: Assets/trial.unity
+  - enabled: 1
+    path: Assets/SCENES/EASYLEVEL.unity
